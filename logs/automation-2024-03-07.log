@@ -1,0 +1,51 @@
+13:27:30.430 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:27:30.438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:27:30.438 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:27:30.439 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:27:30.444 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:27:30.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:27:30.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:27:30.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:27:30.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:27:30.452 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:27:30.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:27:30.463 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:27:30.464 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+13:27:30.471 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Starting Tc_003_LoginDDTTest ***
+13:27:30.471 [main] DEBUG testCases.Tc_003_LoginDDTTest - Starting Appliation logs
+13:27:30.504 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked myaccount link from Homepage
+13:27:30.633 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked login link  from Homepage
+13:27:30.720 [main] INFO  testCases.Tc_003_LoginDDTTest - Entered login details
+13:27:30.743 [main] INFO  testCases.Tc_003_LoginDDTTest - clicked login button
+13:27:30.918 [main] INFO  testCases.Tc_003_LoginDDTTest - test scenario passed
+13:27:31.012 [main] DEBUG testCases.Tc_003_LoginDDTTest - Ending Appliation logs
+13:27:31.012 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Finished Tc_003_LoginDDTTest t***
+13:27:31.014 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Starting Tc_003_LoginDDTTest ***
+13:27:31.014 [main] DEBUG testCases.Tc_003_LoginDDTTest - Starting Appliation logs
+13:27:31.036 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked myaccount link from Homepage
+13:27:31.115 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked login link  from Homepage
+13:27:31.163 [main] INFO  testCases.Tc_003_LoginDDTTest - Entered login details
+13:27:31.182 [main] INFO  testCases.Tc_003_LoginDDTTest - clicked login button
+13:27:41.200 [main] INFO  testCases.Tc_003_LoginDDTTest - test secanrio passed
+13:27:41.201 [main] DEBUG testCases.Tc_003_LoginDDTTest - Ending Appliation logs
+13:27:41.201 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Finished Tc_003_LoginDDTTest t***
+13:27:41.203 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Starting Tc_003_LoginDDTTest ***
+13:27:41.203 [main] DEBUG testCases.Tc_003_LoginDDTTest - Starting Appliation logs
+13:27:41.229 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked myaccount link from Homepage
+13:27:41.340 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked login link  from Homepage
+13:27:41.389 [main] INFO  testCases.Tc_003_LoginDDTTest - Entered login details
+13:27:41.406 [main] INFO  testCases.Tc_003_LoginDDTTest - clicked login button
+13:27:51.432 [main] INFO  testCases.Tc_003_LoginDDTTest - test secanrio passed
+13:27:51.433 [main] DEBUG testCases.Tc_003_LoginDDTTest - Ending Appliation logs
+13:27:51.433 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Finished Tc_003_LoginDDTTest t***
+13:27:51.435 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Starting Tc_003_LoginDDTTest ***
+13:27:51.435 [main] DEBUG testCases.Tc_003_LoginDDTTest - Starting Appliation logs
+13:27:51.464 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked myaccount link from Homepage
+13:27:51.618 [main] INFO  testCases.Tc_003_LoginDDTTest - Clicked login link  from Homepage
+13:27:51.669 [main] INFO  testCases.Tc_003_LoginDDTTest - Entered login details
+13:27:51.686 [main] INFO  testCases.Tc_003_LoginDDTTest - clicked login button
+13:28:01.717 [main] INFO  testCases.Tc_003_LoginDDTTest - test secanrio passed
+13:28:01.717 [main] DEBUG testCases.Tc_003_LoginDDTTest - Ending Appliation logs
+13:28:01.717 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Finished Tc_003_LoginDDTTest t***
+13:28:01.720 [main] INFO  testCases.Tc_003_LoginDDTTest - *** Starting Tc_003_LoginDDTTest ***
+13:28:01.720 [main] DEBUG testCases.Tc_003_LoginDDTTest - Starting Appliation logs
