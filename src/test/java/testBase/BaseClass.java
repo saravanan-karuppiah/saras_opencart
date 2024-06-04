@@ -38,12 +38,12 @@ public class BaseClass
 		public void setup(String os,String br) throws IOException
 		{  
 			FileReader file=new FileReader("./src/test/resources/config.properties");
-		     p=new Properties();
+		    p=new Properties();
 		     p.load(file);
 		     logger=LogManager.getLogger(this.getClass());
 		     
 		     if(p.getProperty("execution_env").equalsIgnoreCase("remote"))
-		     {
+		     {  
 		        DesiredCapabilities cap= new DesiredCapabilities();
 		    	 
 		         switch(os.toLowerCase())
@@ -65,8 +65,10 @@ public class BaseClass
 			        return;
 		    
 		          }
+		         System.out.println(cap.getPlatformName());
+		         System.out.println(cap.getBrowserName());  
 		       driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),cap);//this link is a fixed one
-		    	 
+		       System.out.println("hi"); 
 		     }
 		     
 		  
@@ -85,8 +87,11 @@ public class BaseClass
 			
 			driver.manage().deleteAllCookies();
 			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+			driver.get(p.getProperty("http://172.17.0.2"));
+			
 			
 			driver.get(p.getProperty("appurl"));
+			System.out.println(driver.getTitle());
 			driver.manage().window().maximize();
 		}	
 		

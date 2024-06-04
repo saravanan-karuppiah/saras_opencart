@@ -5,8 +5,8 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="mac"/>
-    <parameter name="browser" value="firefox"/>
+    <parameter name="os" value="linux"/>
+    <parameter name="browser" value="chrome"/>
     <groups>
       <run>
         <include name="sanity"/>
@@ -21,13 +21,6 @@
           <include name="test_account_registration"/>
         </methods>
       </class> <!-- testCases.Tc_001_AccountRegistrationTest -->
-      <class name="testCases.Tc_002_LoginTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="verify_LoginTest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.Tc_002_LoginTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
